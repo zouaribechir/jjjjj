@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix CREATORCALC",
+  "description": "Calculate your creator income, growth \u0026 performance. Free calculators for YouTube, TikTok, Instagram, affiliate marketing and online creator business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
